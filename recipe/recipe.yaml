@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.7.25"
+  version: "0.7.26"
 
 package:
   name: tavily-python
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/tavily-python/tavily_python-${{ version }}.tar.gz
-  sha256: 7fa4a4e9248db8766af1273d0604e48dbf8ff4359af683238feaba8974b259ea
+  sha256: 36202728144fce1ef0cece33800f98e3cdeb5f600e6678c50b1232b866a2f509
 
 build:
   number: 0
